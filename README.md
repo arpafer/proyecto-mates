@@ -7,4 +7,6 @@ Esto será un fichero para mostrar los commits a revertir. El cliente ya puede s
 
    Es solo un ejemplo de repositorio para aprender a utilizar Git
    
-   Estos son cambios procedentes de la rama de Readme
+  
+
+
