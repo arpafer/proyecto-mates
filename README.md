@@ -7,6 +7,9 @@ Esto será un fichero para mostrar los commits a revertir. El cliente ya puede s
 
    Es solo un ejemplo de repositorio para aprender a utilizar Git
    
+# Curso mates
+
+   Curso para saber como utilizar Git
   
 
 
